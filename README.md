@@ -92,4 +92,4 @@ Update social media links in `contact.html`:
 
 ---
 
-Made with ❤️
+Made with ❤️# Raddii-s_Portifolio
